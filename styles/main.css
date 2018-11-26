@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pagina1
+{
+background-color:yellow;
+margin: 60px 0px 0px 80px;
+padding: 10px 0px 30px 0px;
+height: 1390px;
+width: 970px;
+}
+.pagina1 p,.pagina1 h3,.pagina1 h4{
+    width: 900px;
+}
+.pagina1 p{
+    background-color: green;
+    margin: 10px 30px 20px 40px;
+    height: 600px ;
+}
+.pagina1 h3{
+    background-color: red;
+    margin: 0px 10px 30px 60px;
+    height: 400px;
+}
+.pagina1 h4{
+    background-color: blue; 
+    margin: 0px 40px 30px 30px;
+    height: 300px;
+}
+.pagina2{
+   background-color: peru;
+   margin: 60px 0px 0px 80px;
+   padding: 30px 0px 25px 0px;
+   width: 895px;
+   height: 950px;
+}
+.pagina2 h1 p,.pagina2 h1 div,.pagina2 h2 p{
+    width: 800px
+    }
+.pagina2 h1,.pagina2 h2,.pagina2 h3{
+    width: 835px;
+}
+.pagina2 h1{
+    background-color:blue;
+    margin: 30px 15px 20px 40px;
+    padding: 1px 0px 0px 0px;
+    height: 260px;
+    
+}
+
+.pagina2 h1 p{
+    background-color: yellow;
+    margin: 30px 15px 20px 20px;
+    height: 100px;
+}
+.pagina2 h1 div{
+    background-color: red;
+    margin: 0px 15px 10px 20px;
+    height: 100px;
+}
+.pagina2 h2{
+    background-color: white;
+    margin: 0px 30px 20px 30px;
+    padding: 1px 0px 0px 1px;
+    height: 350px;
+
+}
+.pagina2 h2 p{
+    background-color:aqua;
+    margin: 30px 25px 20px 10px;
+    height: 300px;
+}
+.pagina2 h3{
+    background-color: green;
+    margin: 0px 15px 25px 25px;
+    height: 250px;
+}
+.pagina3{
+    background-color: black;
+    margin: 40px 0px 0px 30px;
+    padding: 1px;
+    width: 980px;
+    height: 830px;
+}
+.pagina3 h1,.pagina3 h2,.pagina3 h3{
+    width: 900px
+}
+.pagina3 h1{
+    background-color: brown;
+    margin: 10px 40px 30px 40px;
+    height: 300px
+}
+.pagina3 h2{
+    background-color: green;
+    margin: 0px 50px 40px 30px;
+    padding: 1px;
+    height: 240px
+
+}
+.pagina3 h2 p{
+    background-color:grey;
+    margin: 10px 15px 20px 15px;
+    height: 100px;
+    width: 850px;
+     
+}
+.pagina3 h2 div{
+    background-color:darkorange;
+    margin: 0px 15px 10px 15px;
+    height: 100px;
+    width: 850px;
+     
+}
+.pagina3 h3{
+    background-color: blue;
+    margin: 0px 60px 10px 20px;
+    padding: 1px;
+    height: 200px
+}
+.pagina3 h3 article{
+    background-color:orangered;
+    margin: 30px 10px 30px 30px;
+    padding: 1px;
+    height: 140px;
+    width: 860px;
+}
+.pagina3 h3 article div{
+    background-color:red;
+    margin: 20px 20px 20px 20px;
+    padding: 1px;
+    height: 100px;
+    width: 820px;
+}
+.pagina3 h3 article div p{
+    background-color:yellow;
+    margin: 10px 20px 10px 20px;
+    padding: 1px;
+    height: 80px;
+    width: 780px;
+}
+.pagina4{
+    background-color: green;
+    margin: 40px 0 0 40px;
+    padding: 1px;
+    width: 1000px;
+    height: 1200px;
+}
+.pagina4 article{
+    background-color: greenyellow;
+    margin: 20px 20px 20px 20px;
+    padding: 1px;    
+    height: 1160px;
+    width: 960;
+}
+.pagina4 article aside{
+    background-color: aqua;
+    margin: 30px 30px 30px 30px;
+    padding: 1px;    
+    width: 900px;
+    height: 1100px;
+}
+.pagina4 article aside h1{
+    background-color:blue;
+    margin: 20px 10px 20px 10px;
+    padding: 1px;    
+    width: 880px;
+    height: 520px;
+}
+.pagina4 article aside h1 div{
+    background-color: powderblue;
+    margin: 10px 20px 10px 20px;
+    padding: 1px;    
+    width: 840px;
+    height: 500px;
+}
+.pagina4 article aside h1 div p{
+    background-color:red;
+    margin: 20px 30px 20px 30px;
+    padding: 1px;    
+    width: 780px;
+    height: 460px;
+}
+.pagina4 article aside h2{
+    background-color:rebeccapurple;
+    margin: 0px 10px 20px 10px;
+    padding: 1px;    
+    width: 880px;
+    height: 520px;
+}
+.pagina4 article aside h2 nav{
+    background-color:hotpink;
+    margin: 10px 20px 10px 20px;
+    padding: 1px;    
+    width: 840px;
+    height: 500px;
+}
+.pagina4 article aside h2 nav footer{
+    background-color: gold;
+    margin: 20px 30px 20px 30px;
+    width: 780px;
+    height: 460px;
+}
+
+
+.pagina5{
+    background-color: red;
+    margin: 30px;
+    width: 900px;
+    height: 1480px;
+    padding: 20px 0px 60px 0px;
+}
+.pagina5 aside{
+    background-color: blue;
+    margin: auto;
+    width: 820px;
+    height: 1120px;
+    margin: 0px 60px 40px 40px;
+    padding: 20px 0px 60px 0px;
+}
+.pagina5 aside nav{
+    background-color: yellow;
+    margin: auto;
+    width: 760px;
+    height: 300px;
+    margin: 0px 30px 30px 30px;
+    
+}
+.pagina5 aside div{
+    background-color: yellow;
+    margin: auto;
+    width: 760px;
+    height: 300px;
+    margin: 0px 20px 15px 40px;
+    
+}
+.pagina5 aside article{
+    background-color: yellow;
+    margin: auto;
+    width: 760px;
+    height: 300px;
+    margin: 0px 40px 15px 20px;
+    
+}
+.pagina5 aside h3{
+    background-color: yellow;
+    margin: auto;
+    width: 760px;
+    height: 200px;
+    margin: 0px 45px 0px 15px;
+    
+}
+.pagina5 main{
+    background-color: black;
+    margin: auto;
+    width: 700px;
+    height: 200px;
+    margin: 40px 100px 0px 100px;
+    
+}
